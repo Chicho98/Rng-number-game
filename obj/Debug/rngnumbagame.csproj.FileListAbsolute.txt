@@ -1,0 +1,8 @@
+E:\New folder (6)\rngnumbagame\rngnumbagame\obj\Debug\rngnumbagame.csproj.AssemblyReference.cache
+E:\New folder (6)\rngnumbagame\rngnumbagame\obj\Debug\rngnumbagame.csproj.SuggestedBindingRedirects.cache
+E:\New folder (6)\rngnumbagame\rngnumbagame\obj\Debug\rngnumbagame.csproj.CoreCompileInputs.cache
+E:\New folder (6)\rngnumbagame\rngnumbagame\bin\Debug\rngnumbagame.exe.config
+E:\New folder (6)\rngnumbagame\rngnumbagame\bin\Debug\rngnumbagame.exe
+E:\New folder (6)\rngnumbagame\rngnumbagame\bin\Debug\rngnumbagame.pdb
+E:\New folder (6)\rngnumbagame\rngnumbagame\obj\Debug\rngnumbagame.exe
+E:\New folder (6)\rngnumbagame\rngnumbagame\obj\Debug\rngnumbagame.pdb
